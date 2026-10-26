@@ -1,1 +1,0 @@
-import{H as e,k as r}from"./chunk-IMAIW54A.js";var n=(()=>{class t{constructor(){this.abierta=e(!1)}abrir(){this.abierta.set(!0)}cerrar(){this.abierta.set(!1)}static{this.\u0275fac=function(a){return new(a||t)}}static{this.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{n as a};
